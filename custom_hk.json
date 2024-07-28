@@ -1,0 +1,16 @@
+{
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                ".hk",
+                "bochk.com",
+                "byteoversea.com",
+                "larksuite.com"
+            ],
+            "domain_regex": [
+                ".*hsbc.*"
+            ]
+        }
+    ]
+}
